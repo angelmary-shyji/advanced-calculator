@@ -1,4 +1,3 @@
-/* JavaScript file: script.js */
 let currentOperand = '';
 let previousOperand = '';
 let operation = null;
